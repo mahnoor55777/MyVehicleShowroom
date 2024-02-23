@@ -1,0 +1,57 @@
+﻿@{
+    Layout = "_Layout1";
+}
+
+<section class="subscribe_section">
+    <div class="container-fuild">
+        <div class="box">
+            <div class="row">
+                <div class="col-md-6 offset-md-3">
+                    <center> <h3> Show Users  </h3> </center>
+
+                    <br /> <br /> <br />
+                    <table class="table" id="usertable">
+                        <thead>
+                            <tr>
+                                <th scope="col">
+                                    User Id
+                                </th>
+                                <th scope="col">Name</th>
+                                <th scope="col">Email</th>
+                                <th scope="col">Phone</th>
+                                <th scope="col">City</th>
+                                <th scope="col">Password</th>
+                                <th scope="col">Role</th>
+                                <th scope="col">Image</th>
+                                <th scope="col">Edit</th>
+                                <th scope="col">Delete</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                            @model IEnumerable<vsms.Models.User>
+                            @foreach (var value in Model)
+                            {
+                                <tr>
+
+                                    <td> @value.UserId </td>
+
+                                    <td>@value.UserName</td>
+                                    <td>@value.UserEmail</td>
+                                    <td>@value.UserPhoneNumber</td>
+                                    <td>@value.UserCity</td>
+                                    <td>@value.UserPassword</td>
+                                    <td>@value.Roles</td>
+                                    <td><img style="height:20%;width:20%;" src="~/@Url.Content(value.UserImage)" /></td>
+                                    <td> <a class="btn btn-success text-dark" asp-controller="Admin" asp-action="edituser" asp-route-id="@value.UserId"> Edit </a> </td>
+                                    <td> <a class="btn btn-danger text-dark" asp-controller="Admin" asp-action="deleteuser" asp-route-id="@value.UserId"> Delete </a> </td>
+                                </tr>
+
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

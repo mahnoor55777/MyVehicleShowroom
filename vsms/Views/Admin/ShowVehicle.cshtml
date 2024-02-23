@@ -1,0 +1,128 @@
+﻿@{
+    Layout = "_Layout1";
+}
+
+<style>
+    .container-fluid {
+        padding: 20px;
+    }
+
+    .box {
+        background-color: #f8f9fa;
+        border-radius: 10px;
+        padding: 20px;
+    }
+
+    h3 {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    th, td {
+        padding: 8px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+    }
+
+    th {
+        background-color: #f2f2f2;
+        font-weight: bold;
+    }
+
+    img {
+        height: auto;
+        max-width: 100px;
+    }
+
+    .btn {
+        padding: 8px 16px;
+        border: none;
+        cursor: pointer;
+    }
+
+    .btn-success {
+        background-color: #28a745;
+        color: #ffffff;
+    }
+
+    .btn-danger {
+        background-color: #dc3545;
+        color: #ffffff;
+    }
+
+    .text-dark {
+        color: #343a40;
+    }
+
+    .btn-success, .btn-danger {
+        margin-right: 5px;
+    }
+
+    center {
+        display: block;
+        text-align: center;
+    }
+</style>
+
+
+<section class="subscribe_section">
+    <div class="container-fuild">
+        <div class="box">
+            <div class="row">
+                <div class="col-md-6 offset-md-3">
+                    <center> <h3> Show Our Vehicle  </h3> </center>
+
+                    <br /> <br /> <br />
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">VehicleId</th>
+            <th scope="col">VehicleName</th>
+            <th scope="col">VehicleBrand</th>
+            <th scope="col">VehiclePrice</th>
+            <th scope="col">VehicleDescription</th>
+            <th scope="col">VehicleColour</th>
+            <th scope="col">VehicleModelNum</th>
+            <th scope="col">VehicleImage</th>
+            <th scope="col">Edit</th>
+            <th scope="col">Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (TempData["msg"] != null)
+        {
+            <script>
+                var text = '@TempData["msg"].ToString()';
+                alert(text);
+            </script>
+        }
+            @model IEnumerable<vsms.Models.NewVehicle>
+            @foreach(var value in Model){
+        <tr>
+
+                                    <th scope="row"> @value.VehicleId </th>
+                                    <td>@value.CompanyVehicleName</td>
+                                    <td>@value.CompanyVehicleBrand</td>
+                                    <td>@value.CompanyVehiclePrice</td>
+                                    <td>@value.CompanyVehicleDescription</td>
+                                    <td>@value.CompanyVehicleColour</td>
+                                    <td>@value.CompanyVehicleModelNum</td>
+                <td> <img style="height:20%;width:20%;" src="~/@Url.Content(value.CompanyVehicleImage)"/> </td>
+                <td> <a class="btn btn-success text-dark" asp-controller="Admin" asp-action="EditVehicle" asp-route-id="@value.VehicleId">Edit</a> </td>
+                <td> <a class="btn btn-danger text-dark" asp-controller="Admin" asp-action="DeleteVehicle" asp-route-id="@value.VehicleId">Delete</a> </td>
+
+        </tr>
+
+       }
+    </tbody>
+</table>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

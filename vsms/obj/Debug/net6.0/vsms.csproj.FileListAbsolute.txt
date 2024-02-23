@@ -1,0 +1,594 @@
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\appsettings.json
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\vsms.staticwebassets.runtime.json
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\vsms.exe
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\vsms.deps.json
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\vsms.runtimeconfig.json
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\vsms.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\vsms.pdb
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\Humanizer.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Documents\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DELL\Documents\vsms\vsms\obj\Debug\net6.0\vsms.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\vsms\vsms\obj\Debug\net6.0\vsms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\vsms\vsms\obj\Debug\net6.0\vsms.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\vsms\vsms\obj\Debug\net6.0\vsms.AssemblyInfo.cs
+C:\Users\DELL\Documents\vsms\vsms\obj\Debug\net6.0\vsms.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\vsms\vsms\obj\Debug\net6.0\vsms.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Documents\vsms\vsms\obj\Debug\net6.0\vsms.RazorAssemblyInfo.cache
+C:\Users\DELL\Documents\vsms\vsms\obj\Debug\net6.0\vsms.RazorAssemblyInfo.cs
+C:\Users\DELL\Documents\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.vsms.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Documents\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.build.vsms.props
+C:\Users\DELL\Documents\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.vsms.props
+C:\Users\DELL\Documents\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.vsms.props
+C:\Users\DELL\Documents\vsms\vsms\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\DELL\Documents\vsms\vsms\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DELL\Documents\vsms\vsms\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DELL\Documents\vsms\vsms\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\Documents\vsms\vsms\obj\Debug\net6.0\scopedcss\bundle\vsms.styles.css
+C:\Users\DELL\Documents\vsms\vsms\obj\Debug\net6.0\scopedcss\projectbundle\vsms.bundle.scp.css
+C:\Users\DELL\Documents\vsms\vsms\obj\Debug\net6.0\vsms.csproj.CopyComplete
+C:\Users\DELL\Documents\vsms\vsms\obj\Debug\net6.0\vsms.dll
+C:\Users\DELL\Documents\vsms\vsms\obj\Debug\net6.0\refint\vsms.dll
+C:\Users\DELL\Documents\vsms\vsms\obj\Debug\net6.0\vsms.pdb
+C:\Users\DELL\Documents\vsms\vsms\obj\Debug\net6.0\vsms.genruntimeconfig.cache
+C:\Users\DELL\Documents\vsms\vsms\obj\Debug\net6.0\ref\vsms.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\appsettings.json
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\vsms.staticwebassets.runtime.json
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\vsms.exe
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\vsms.deps.json
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\vsms.runtimeconfig.json
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\vsms.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\vsms.pdb
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\Humanizer.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asp\Downloads\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\asp\Downloads\vsms\vsms\obj\Debug\net6.0\vsms.csproj.AssemblyReference.cache
+C:\Users\asp\Downloads\vsms\vsms\obj\Debug\net6.0\vsms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp\Downloads\vsms\vsms\obj\Debug\net6.0\vsms.AssemblyInfoInputs.cache
+C:\Users\asp\Downloads\vsms\vsms\obj\Debug\net6.0\vsms.AssemblyInfo.cs
+C:\Users\asp\Downloads\vsms\vsms\obj\Debug\net6.0\vsms.csproj.CoreCompileInputs.cache
+C:\Users\asp\Downloads\vsms\vsms\obj\Debug\net6.0\vsms.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asp\Downloads\vsms\vsms\obj\Debug\net6.0\vsms.RazorAssemblyInfo.cache
+C:\Users\asp\Downloads\vsms\vsms\obj\Debug\net6.0\vsms.RazorAssemblyInfo.cs
+C:\Users\asp\Downloads\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.vsms.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\asp\Downloads\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.build.vsms.props
+C:\Users\asp\Downloads\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.vsms.props
+C:\Users\asp\Downloads\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.vsms.props
+C:\Users\asp\Downloads\vsms\vsms\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\asp\Downloads\vsms\vsms\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\asp\Downloads\vsms\vsms\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\asp\Downloads\vsms\vsms\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\asp\Downloads\vsms\vsms\obj\Debug\net6.0\scopedcss\bundle\vsms.styles.css
+C:\Users\asp\Downloads\vsms\vsms\obj\Debug\net6.0\scopedcss\projectbundle\vsms.bundle.scp.css
+C:\Users\asp\Downloads\vsms\vsms\obj\Debug\net6.0\vsms.csproj.CopyComplete
+C:\Users\asp\Downloads\vsms\vsms\obj\Debug\net6.0\vsms.dll
+C:\Users\asp\Downloads\vsms\vsms\obj\Debug\net6.0\refint\vsms.dll
+C:\Users\asp\Downloads\vsms\vsms\obj\Debug\net6.0\vsms.pdb
+C:\Users\asp\Downloads\vsms\vsms\obj\Debug\net6.0\vsms.genruntimeconfig.cache
+C:\Users\asp\Downloads\vsms\vsms\obj\Debug\net6.0\ref\vsms.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\appsettings.json
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\vsms.staticwebassets.runtime.json
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\vsms.exe
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\vsms.deps.json
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\vsms.runtimeconfig.json
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\vsms.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\vsms.pdb
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\Humanizer.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asp\Documents\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\asp\Documents\vsms\vsms\obj\Debug\net6.0\vsms.csproj.AssemblyReference.cache
+C:\Users\asp\Documents\vsms\vsms\obj\Debug\net6.0\vsms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp\Documents\vsms\vsms\obj\Debug\net6.0\vsms.AssemblyInfoInputs.cache
+C:\Users\asp\Documents\vsms\vsms\obj\Debug\net6.0\vsms.AssemblyInfo.cs
+C:\Users\asp\Documents\vsms\vsms\obj\Debug\net6.0\vsms.csproj.CoreCompileInputs.cache
+C:\Users\asp\Documents\vsms\vsms\obj\Debug\net6.0\vsms.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asp\Documents\vsms\vsms\obj\Debug\net6.0\vsms.RazorAssemblyInfo.cache
+C:\Users\asp\Documents\vsms\vsms\obj\Debug\net6.0\vsms.RazorAssemblyInfo.cs
+C:\Users\asp\Documents\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.vsms.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\asp\Documents\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.build.vsms.props
+C:\Users\asp\Documents\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.vsms.props
+C:\Users\asp\Documents\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.vsms.props
+C:\Users\asp\Documents\vsms\vsms\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\asp\Documents\vsms\vsms\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\asp\Documents\vsms\vsms\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\asp\Documents\vsms\vsms\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\asp\Documents\vsms\vsms\obj\Debug\net6.0\scopedcss\bundle\vsms.styles.css
+C:\Users\asp\Documents\vsms\vsms\obj\Debug\net6.0\scopedcss\projectbundle\vsms.bundle.scp.css
+C:\Users\asp\Documents\vsms\vsms\obj\Debug\net6.0\vsms.csproj.CopyComplete
+C:\Users\asp\Documents\vsms\vsms\obj\Debug\net6.0\vsms.dll
+C:\Users\asp\Documents\vsms\vsms\obj\Debug\net6.0\refint\vsms.dll
+C:\Users\asp\Documents\vsms\vsms\obj\Debug\net6.0\vsms.pdb
+C:\Users\asp\Documents\vsms\vsms\obj\Debug\net6.0\vsms.genruntimeconfig.cache
+C:\Users\asp\Documents\vsms\vsms\obj\Debug\net6.0\ref\vsms.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\appsettings.Development.json
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\appsettings.json
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\vsms.staticwebassets.runtime.json
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\vsms.exe
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\vsms.deps.json
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\vsms.runtimeconfig.json
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\vsms.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\vsms.pdb
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\Humanizer.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\@Showroom\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\@Showroom\vsms\vsms\obj\Debug\net6.0\vsms.csproj.AssemblyReference.cache
+C:\@Showroom\vsms\vsms\obj\Debug\net6.0\vsms.GeneratedMSBuildEditorConfig.editorconfig
+C:\@Showroom\vsms\vsms\obj\Debug\net6.0\vsms.AssemblyInfoInputs.cache
+C:\@Showroom\vsms\vsms\obj\Debug\net6.0\vsms.AssemblyInfo.cs
+C:\@Showroom\vsms\vsms\obj\Debug\net6.0\vsms.csproj.CoreCompileInputs.cache
+C:\@Showroom\vsms\vsms\obj\Debug\net6.0\vsms.MvcApplicationPartsAssemblyInfo.cache
+C:\@Showroom\vsms\vsms\obj\Debug\net6.0\vsms.RazorAssemblyInfo.cache
+C:\@Showroom\vsms\vsms\obj\Debug\net6.0\vsms.RazorAssemblyInfo.cs
+C:\@Showroom\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.vsms.Microsoft.AspNetCore.StaticWebAssets.props
+C:\@Showroom\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.build.vsms.props
+C:\@Showroom\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.vsms.props
+C:\@Showroom\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.vsms.props
+C:\@Showroom\vsms\vsms\obj\Debug\net6.0\staticwebassets.pack.json
+C:\@Showroom\vsms\vsms\obj\Debug\net6.0\staticwebassets.build.json
+C:\@Showroom\vsms\vsms\obj\Debug\net6.0\staticwebassets.development.json
+C:\@Showroom\vsms\vsms\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\@Showroom\vsms\vsms\obj\Debug\net6.0\scopedcss\bundle\vsms.styles.css
+C:\@Showroom\vsms\vsms\obj\Debug\net6.0\scopedcss\projectbundle\vsms.bundle.scp.css
+C:\@Showroom\vsms\vsms\obj\Debug\net6.0\vsms.csproj.CopyComplete
+C:\@Showroom\vsms\vsms\obj\Debug\net6.0\vsms.dll
+C:\@Showroom\vsms\vsms\obj\Debug\net6.0\refint\vsms.dll
+C:\@Showroom\vsms\vsms\obj\Debug\net6.0\vsms.pdb
+C:\@Showroom\vsms\vsms\obj\Debug\net6.0\vsms.genruntimeconfig.cache
+C:\@Showroom\vsms\vsms\obj\Debug\net6.0\ref\vsms.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.csproj.AssemblyReference.cache
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.AssemblyInfoInputs.cache
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.AssemblyInfo.cs
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.csproj.CoreCompileInputs.cache
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.RazorAssemblyInfo.cache
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.RazorAssemblyInfo.cs
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\refint\vsms.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.pdb
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\appsettings.json
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\vsms.staticwebassets.runtime.json
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\vsms.exe
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\vsms.deps.json
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\vsms.runtimeconfig.json
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\vsms.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\vsms.pdb
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Humanizer.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.vsms.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.build.vsms.props
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.vsms.props
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.vsms.props
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\scopedcss\bundle\vsms.styles.css
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\scopedcss\projectbundle\vsms.bundle.scp.css
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.csproj.CopyComplete
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.genruntimeconfig.cache
+C:\Users\bakhtawarsiraj\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\ref\vsms.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\appsettings.json
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\vsms.staticwebassets.runtime.json
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\vsms.exe
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\vsms.deps.json
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\vsms.runtimeconfig.json
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\vsms.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\vsms.pdb
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\Humanizer.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asp\Desktop\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\asp\Desktop\vsms\vsms\obj\Debug\net6.0\vsms.csproj.AssemblyReference.cache
+C:\Users\asp\Desktop\vsms\vsms\obj\Debug\net6.0\vsms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp\Desktop\vsms\vsms\obj\Debug\net6.0\vsms.AssemblyInfoInputs.cache
+C:\Users\asp\Desktop\vsms\vsms\obj\Debug\net6.0\vsms.AssemblyInfo.cs
+C:\Users\asp\Desktop\vsms\vsms\obj\Debug\net6.0\vsms.csproj.CoreCompileInputs.cache
+C:\Users\asp\Desktop\vsms\vsms\obj\Debug\net6.0\vsms.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asp\Desktop\vsms\vsms\obj\Debug\net6.0\vsms.RazorAssemblyInfo.cache
+C:\Users\asp\Desktop\vsms\vsms\obj\Debug\net6.0\vsms.RazorAssemblyInfo.cs
+C:\Users\asp\Desktop\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.vsms.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\asp\Desktop\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.build.vsms.props
+C:\Users\asp\Desktop\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.vsms.props
+C:\Users\asp\Desktop\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.vsms.props
+C:\Users\asp\Desktop\vsms\vsms\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\asp\Desktop\vsms\vsms\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\asp\Desktop\vsms\vsms\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\asp\Desktop\vsms\vsms\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\asp\Desktop\vsms\vsms\obj\Debug\net6.0\scopedcss\bundle\vsms.styles.css
+C:\Users\asp\Desktop\vsms\vsms\obj\Debug\net6.0\scopedcss\projectbundle\vsms.bundle.scp.css
+C:\Users\asp\Desktop\vsms\vsms\obj\Debug\net6.0\vsms.csproj.CopyComplete
+C:\Users\asp\Desktop\vsms\vsms\obj\Debug\net6.0\vsms.dll
+C:\Users\asp\Desktop\vsms\vsms\obj\Debug\net6.0\refint\vsms.dll
+C:\Users\asp\Desktop\vsms\vsms\obj\Debug\net6.0\vsms.pdb
+C:\Users\asp\Desktop\vsms\vsms\obj\Debug\net6.0\vsms.genruntimeconfig.cache
+C:\Users\asp\Desktop\vsms\vsms\obj\Debug\net6.0\ref\vsms.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\appsettings.json
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\vsms.staticwebassets.runtime.json
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\vsms.exe
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\vsms.deps.json
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\vsms.runtimeconfig.json
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\vsms.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\vsms.pdb
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Humanizer.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.AssemblyInfo.cs
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.RazorAssemblyInfo.cache
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.RazorAssemblyInfo.cs
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.vsms.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.build.vsms.props
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.vsms.props
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.vsms.props
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\scopedcss\bundle\vsms.styles.css
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\scopedcss\projectbundle\vsms.bundle.scp.css
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.csproj.CopyComplete
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\refint\vsms.dll
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.pdb
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.genruntimeconfig.cache
+C:\Users\DELL\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\ref\vsms.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\appsettings.json
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\vsms.staticwebassets.runtime.json
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\vsms.exe
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\vsms.deps.json
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\vsms.runtimeconfig.json
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\vsms.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\vsms.pdb
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Humanizer.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.csproj.AssemblyReference.cache
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.AssemblyInfoInputs.cache
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.AssemblyInfo.cs
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.csproj.CoreCompileInputs.cache
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.RazorAssemblyInfo.cache
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.RazorAssemblyInfo.cs
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.vsms.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.build.vsms.props
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.vsms.props
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.vsms.props
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\scopedcss\bundle\vsms.styles.css
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\scopedcss\projectbundle\vsms.bundle.scp.css
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.csproj.CopyComplete
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\refint\vsms.dll
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.pdb
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.genruntimeconfig.cache
+C:\Users\asp\Downloads\vsms (1)\vsms\vsms\obj\Debug\net6.0\ref\vsms.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\appsettings.json
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\vsms.staticwebassets.runtime.json
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\vsms.exe
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\vsms.deps.json
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\vsms.runtimeconfig.json
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\vsms.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\vsms.pdb
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\Humanizer.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.csproj.AssemblyReference.cache
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.AssemblyInfoInputs.cache
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.AssemblyInfo.cs
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.csproj.CoreCompileInputs.cache
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.RazorAssemblyInfo.cache
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.RazorAssemblyInfo.cs
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.vsms.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.build.vsms.props
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.vsms.props
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.vsms.props
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\obj\Debug\net6.0\scopedcss\bundle\vsms.styles.css
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\obj\Debug\net6.0\scopedcss\projectbundle\vsms.bundle.scp.css
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.csproj.CopyComplete
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\obj\Debug\net6.0\refint\vsms.dll
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.pdb
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\obj\Debug\net6.0\vsms.genruntimeconfig.cache
+C:\Users\asp\Documents\Vehicle Showroom Management System\vsms (1)\vsms\vsms\obj\Debug\net6.0\ref\vsms.dll

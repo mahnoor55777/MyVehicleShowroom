@@ -1,0 +1,55 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model List<NewVehicle>;
+@{
+    <form asp-action="checkout" asp-controller="Home" method="post">
+        <section style="background-color: #fdccbc;">
+            <div style="padding: 20px;">
+                <center>  <h2> CheakOut Your Product </h2> </center>
+    <table>
+        <tr>
+            <th>Vehicle ID</th>
+            <th>Vehicle Name</th>
+            <th>Vehicle ModelNum</th>
+            <th>Vehicle Price</th>
+            <th>Vehicle Description</th>
+            <th>Vehicle Colour</th>
+            <th>Vehicle Brand</th>
+            <th>Vehicle Image</th>
+
+        </tr>
+    
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                    <td>
+                    <input type="hidden" value="@item.VehicleId.ToString()" name="tvNo" />
+                    @item.VehicleId.ToString()</td>
+                <td>@item.CompanyVehicleName.ToString()</td>
+                <td>@item.CompanyVehicleModelNum.ToString()</td>
+                <td>@item.CompanyVehiclePrice.ToString()</td>
+                <td>@item.CompanyVehicleDescription.ToString()</td>
+                <td>@item.CompanyVehicleColour.ToString()</td>
+                <td>@item.CompanyVehicleBrand.ToString()</td>
+                <td>@item.CompanyVehicleImage.ToString()</td>
+
+            </tr>
+        }
+        </table>
+
+        <br> <br> <br>
+                <center> <input type="submit" value="CheckOut" class="btn btn-dark" /> </center>
+                <br> <br> <br>
+            </div>
+        </section>
+    </form>
+}
+
+
+
+

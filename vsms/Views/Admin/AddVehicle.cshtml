@@ -1,0 +1,77 @@
+﻿@{
+    Layout = "_Layout1";
+}
+
+<style>
+    .container-fluid {
+        padding: 20px;
+    }
+
+    .box {
+        background-color: #f8f9fa;
+        border-radius: 10px;
+        padding: 20px;
+    }
+
+    .subscribe_form {
+        text-align: center;
+    }
+
+    .heading_container h3 {
+        margin-bottom: 15px;
+    }
+
+    .subscribe_form p {
+        margin-bottom: 20px;
+    }
+
+    input[type="text"],
+    input[type="file"],
+    button[type="submit"] {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 10px;
+        border-radius: 5px;
+        border: 1px solid #ced4da;
+        box-sizing: border-box;
+    }
+
+    button[type="submit"] {
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        cursor: pointer;
+    }
+</style>
+
+<!-- subscribe section -->
+<section class="subscribe_section">
+    <div class="container-fuild">
+        <div class="box">
+            <div class="row">
+                <div class="col-md-6 offset-md-3">
+                    <div class="subscribe_form ">
+                        <div class="heading_container heading_center">
+                            <h3>Add Vehicles</h3>
+                        </div>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+                        @model vsms.Models.NewVehicle  
+                        <form asp-action="CreateVehicle" enctype="multipart/form-data">
+                            <input type="text" placeholder="Enter Name" asp-for="CompanyVehicleName">
+                            <input type="text" placeholder="Enter Salary" asp-for="CompanyVehicleBrand">
+                            <input type="text" placeholder="Enter Salary" asp-for="CompanyVehiclePrice">
+                            <input type="text" placeholder="Enter Salary" asp-for="CompanyVehicleDescription">
+                            <input type="text" placeholder="Enter Salary" asp-for="CompanyVehicleColour">
+                            <input type="text" placeholder="Enter Salary" asp-for="CompanyVehicleModelNum">
+                            <input type="file" name="file">
+                            <button type="submit">
+                                Add
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end subscribe section -->

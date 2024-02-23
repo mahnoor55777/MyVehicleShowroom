@@ -1,0 +1,68 @@
+﻿
+
+<section class="contact_section layout_padding-top">
+    <div class="container">
+        <div class="heading_container">
+            <center>
+                <h2>
+                    <b> SignUp </b>
+                </h2>
+            </center>
+            <hr>
+        </div>
+        <div class="layout_padding">
+            <div class="row">
+                <div class="col-md-6">
+                    @model vsms.Models.User
+                    <form asp-action="CreateUser" enctype="multipart/form-data">
+                        <div class="contact_form-container">
+                            <div>
+
+                                <div>
+                                    <input type="text" placeholder="UserName" asp-for="UserName">
+                                </div>
+                                <div>
+                                    <input type="email" placeholder="Email" asp-for="UserEmail">
+                                </div>
+                                <div>
+                                    <input type="tel" placeholder="PhoneNumber" asp-for="UserPhoneNumber">
+                                </div>
+                                <div>
+                                    <input type="text" placeholder="City" asp-for="UserCity">
+                                </div>
+                                <div>
+                                    <input type="password" placeholder="Password" asp-for="UserPassword">
+                                </div>
+
+                                <div>
+                                    <input type="hidden"  asp-for="Roles" value="2">
+                                </div>
+
+
+                                <input type="file" name="file">
+
+                                <div class="mt-5 d-flex justify-content-center justify-content-sm-start">
+                                    <input class="btn btn-dark text-light col-md-7" type="submit" value="Signup" />
+                                    <a class="col-md-1"></a>
+                                    <input class="btn btn-dark text-light col-md-7" type="submit" asp-controller="Home" asp-action="Login" value="Login">
+                                       
+                                   
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </form>
+                </div>
+                <div class="col-md-6">
+                    <div class="contact_img-box">
+                        <img src="~/images/log.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- end contact section -->

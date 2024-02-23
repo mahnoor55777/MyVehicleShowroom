@@ -1,0 +1,48 @@
+﻿<!-- feature section -->
+
+<section class="feature_section layout_padding">
+    <div class="container">
+        <div class="heading_container">
+            <h2>
+                Featured Cars
+            </h2>
+            <hr>
+        </div>
+        <div class="carousel-wrap layout_padding2 ">
+            <div class="owl-carousel owl-one">
+                @model IEnumerable<vsms.Models.NewVehicle>
+                @foreach (var value in Model)
+                {
+                    <div class="item">
+                        <div class="content">
+
+                            <div class="top-content">
+                                <div class="img-box">
+                                    <img src="~/@Url.Content(value.CompanyVehicleImage)" height="200" />
+                                </div>
+                                <div class="img-text">
+                                    <h6 class="price">
+                                        <span>PKR</span>
+                                        @value.CompanyVehiclePrice
+                                    </h6>
+
+                                </div>
+                            </div>
+                            <div class="bottom-content">
+                                <h5>
+                                    Best @value.CompanyVehicleName
+                                </h5>
+                                <p>
+                                    @value.CompanyVehicleDescription
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- feature section -->
+

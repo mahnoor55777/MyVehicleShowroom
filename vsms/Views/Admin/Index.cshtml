@@ -1,0 +1,146 @@
+﻿@{
+    Layout = "_Layout1";
+}
+
+<style>
+    .container-xxl {
+        position: relative;
+        background-color: #ffffff; /* White background */
+        display: flex;
+        padding: 0;
+    }
+
+    .content {
+        /* Content styling */
+    }
+
+    .container-fluid {
+        padding-top: 4rem; /* Adjust top padding as needed */
+        padding-right: 4rem; /* Adjust right padding as needed */
+        padding-bottom: 4rem; /* Adjust bottom padding as needed */
+        padding-left: 4rem; /* Adjust left padding as needed */
+    }
+
+    .row {
+        /* Row styling */
+    }
+
+    .col-md-6 {
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 50%; /* Adjust maximum width as needed */
+    }
+
+    h3 {
+        /* Heading styling */
+    }
+
+    table {
+        /* Table styling */
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    th,
+    td {
+        padding: 8px;
+        text-align: left;
+        border-bottom: 1px solid #ddd; /* Border color */
+    }
+
+    th {
+        background-color: #f2f2f2; /* Table header background color */
+        font-weight: bold;
+    }
+
+    img {
+        /* Image styling */
+        height: 100px; /* Adjust image height as needed */
+    }
+
+    .btn {
+        /* Button styling */
+        padding: 5px 10px;
+        border: none;
+        cursor: pointer;
+    }
+
+    .btn-success {
+        /* Button success styling */
+        background-color: #28a745; /* Green color */
+        color: #ffffff; /* White text color */
+        margin-right: 5px;
+    }
+
+    .text-dark {
+        /* Dark text styling */
+        color: #343a40; /* Dark color */
+    }
+</style>
+
+
+<div class="container-xxl position-relative bg-white d-flex p-0">
+
+    <!-- Content Start -->
+    <div class="content">
+
+        <!-- Sale & Revenue Start -->
+        <div class="container-fluid pt-4 px-4">
+
+            <div class="row">
+                <div class="col-md-6 offset-md-3">
+
+                    <h3> User Data </h3>
+
+                    <table class="table" id="usertable">
+                        <thead>
+                            <tr>
+                                <th scope="col">
+                                    User Id
+                                </th>
+                                <th scope="col">Name</th>
+                                <th scope="col">Email</th>
+                                <th scope="col">Phone</th>
+                                <th scope="col">City</th>
+                                <th scope="col">Password</th>
+                                <th scope="col">Role</th>
+                                <th scope="col">Image</th>
+                                <th scope="col">Edit</th>
+                                <th scope="col">Delete</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                            @model IEnumerable<vsms.Models.User>
+                            @foreach (var value in Model)
+                            {
+                                <tr>
+
+                                    <td> @value.UserId </td>
+
+                                    <td>@value.UserName</td>
+                                    <td>@value.UserEmail</td>
+                                    <td>@value.UserPhoneNumber</td>
+                                    <td>@value.UserCity</td>
+                                    <td>@value.UserPassword</td>
+                                    <td>@value.Roles</td>
+                                    <td><img style="height:20%;width:20%;" src="~/@Url.Content(value.UserImage)" /></td>
+                                    <td> <a class="btn btn-success text-dark" asp-controller="Admin" asp-action="edituser" asp-route-id="@value.UserId"> Edit </a> </td>
+                                    <td> <a class="btn btn-danger text-dark" asp-controller="Admin" asp-action="deleteuser" asp-route-id="@value.UserId"> Delete </a> </td>
+                                </tr>
+
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+           
+        </div>
+        <!-- Sale & Revenue End -->
+
+
+
+    </div>
+    <!-- Content End -->
+
+</div>

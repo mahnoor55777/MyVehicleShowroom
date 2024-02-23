@@ -1,0 +1,73 @@
+﻿@{
+    Layout = "_Layout1";
+}
+
+<style>
+    .container-fluid {
+        padding: 20px;
+    }
+
+    .box {
+        background-color: #f8f9fa;
+        border-radius: 10px;
+        padding: 20px;
+    }
+
+    .subscribe_form {
+        text-align: center;
+    }
+
+    .heading_container h3 {
+        margin-bottom: 15px;
+    }
+
+    .subscribe_form p {
+        margin-bottom: 20px;
+    }
+
+    input[type="text"],
+    input[type="hidden"],
+    button[type="submit"] {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 10px;
+        border-radius: 5px;
+        border: 1px solid #ced4da;
+        box-sizing: border-box;
+    }
+
+    button[type="submit"] {
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        cursor: pointer;
+    }
+</style>
+
+<!-- subscribe section -->
+<section class="subscribe_section">
+    <div class="container-fuild">
+        <div class="box">
+            <div class="row">
+                <div class="col-md-6 offset-md-3">
+                    <div class="subscribe_form ">
+                        <div class="heading_container heading_center">
+                            <h3>Edit Roles</h3>
+                        </div>
+                        @model vsms.Models.Role
+                        <form asp-action="editrole2">
+                            <input type="hidden" placeholder="Enter Role Name" asp-for="Rid">
+
+                            <input type="text" placeholder="Enter Role Name" asp-for="Rname">
+
+                            <button type="submit">
+                                Edit
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end subscribe section -->

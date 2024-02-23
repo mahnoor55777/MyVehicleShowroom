@@ -1,0 +1,118 @@
+﻿@{
+    Layout = "_Layout1";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Design by foolishdeveloper.com -->
+    <title>Glassmorphism login Form Tutorial in html css</title>
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap" rel="stylesheet">
+    <!--Stylesheet-->
+    <style>
+        /* Container styles */
+        .subscribe_section {
+            padding: 25px 0;
+            background-color: #f8f9fa;
+        }
+
+        .container-fuild {
+            margin: 0 auto;
+            max-width: 900px;
+            padding: 0 15px;
+        }
+
+        /* Form styles */
+        .subscribe_form {
+            background-color: #ffffff;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+            .subscribe_form h3 {
+                font-size: 24px;
+                margin-bottom: 20px;
+                color: #333333;
+                text-align: center;
+            }
+
+            .subscribe_form p {
+                color: #666666;
+                margin-bottom: 20px;
+                text-align: center;
+            }
+
+            .subscribe_form input[type='text'],
+            .subscribe_form input[type='file'] {
+                width: 100%;
+                padding: 10px;
+                margin-bottom: 15px;
+                border: 1px solid #cccccc;
+                border-radius: 5px;
+            }
+
+            .subscribe_form button {
+                background-color: #007bff;
+                color: #ffffff;
+                border: none;
+                padding: 12px 20px;
+                border-radius: 5px;
+                cursor: pointer;
+                display: block;
+                margin: 0 auto;
+                transition: background-color 0.3s ease;
+            }
+
+                .subscribe_form button:hover {
+                    background-color: #0056b3;
+                }
+    </style>
+
+</head>
+<body>
+
+<!-- subscribe section -->
+<section class="subscribe_section">
+    <div class="container-fuild">
+        <div class="box">
+            <div class="row">
+                <div class="col-md-6 offset-md-3">
+                    <div class="subscribe_form ">
+                        <div class="heading_container heading_center">
+                            <h3> Edit Vehicles </h3>
+                        </div>
+                        @model vsms.Models.NewVehicle
+                        <form asp-action="Update" enctype="multipart/form-data">
+                            <input type="hidden" placeholder="Enter Name" asp-for="VehicleId">
+                            <input type="text" placeholder="Enter Name" asp-for="CompanyVehicleName">
+                            <input type="text" placeholder="Enter Salary" asp-for="CompanyVehicleBrand">
+                            <input type="text" placeholder="Enter Salary" asp-for="CompanyVehiclePrice">
+                            <input type="text" placeholder="Enter Salary" asp-for="CompanyVehicleDescription">
+                            <input type="text" placeholder="Enter Salary" asp-for="CompanyVehicleColour">
+                            <input type="text" placeholder="Enter Salary" asp-for="CompanyVehicleModelNum">
+                            <input type="file" name="file">
+                            @if (ViewData["Error"] != null)
+                            {
+                                <script>
+                                    var text = '@ViewData["Error"].ToString()';
+                                    alert(text);
+                                </script>
+                            }
+                            <button type="submit">
+                                Add
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end subscribe section -->
+
+</body>
+</html>

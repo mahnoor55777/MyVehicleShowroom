@@ -1,0 +1,60 @@
+﻿@{
+    Layout = "_Layout1";
+}
+<section class="subscribe_section">
+    <div class="container-fuild">
+        <div class="box">
+            <div class="row">
+                <div class="col-md-6 offset-md-3">
+                    <center> <h3> Show Company Vehicles  </h3> </center>
+                    <br />
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th scope="col">VehicleId</th>
+                                <th scope="col">VehicleName</th>
+                                <th scope="col">VehicleBrand</th>
+                                <th scope="col">VehiclePrice</th>
+                                <th scope="col">VehicleDescription</th>
+                                <th scope="col">VehicleColour</th>
+                                <th scope="col">VehicleModelNum</th>
+                                <th scope="col">VehicleImage</th>
+                                <th scope="col">Status</th>
+                                <th scope="col">Action</th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @if (TempData["msg"] != null)
+                            {
+                                <script>
+                                    var text = '@TempData["msg"].ToString()';
+                                    alert(text);
+                                </script>
+                            }
+                            @model IEnumerable<vsms.Models.CompanyVehicle>
+                            @foreach (var value in Model)
+                            {
+                                <tr>
+
+                                    <th scope="row"> @value.CompanyVehicleId </th>
+                                    <td>@value.CompanyVehicleName</td>
+                                    <td>@value.CompanyVehicleBrand</td>
+                                    <td>@value.CompanyVehiclePrice</td>
+                                    <td>@value.CompanyVehicleDescription</td>
+                                    <td>@value.CompanyVehicleColour</td>
+                                    <td>@value.CompanyVehicleModelNum</td>
+                                    <td> <img style="height:20%;width:20%;" src="~/@Url.Content(value.CompanyVehicleImage)" /> </td>
+                                    <td>@value.Status</td>
+                                    <td> <a class="btn btn-success text-dark" asp-controller="Admin" asp-action="CompanyPurchaseVehicle" asp-route-id="@value.CompanyVehicleId"> Purchase </a> </td>
+
+                                </tr>
+
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

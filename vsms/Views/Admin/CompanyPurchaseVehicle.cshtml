@@ -1,0 +1,103 @@
+﻿@{
+    Layout = "_Layout1";
+}
+
+<style>
+    .container-fluid {
+        padding: 20px;
+    }
+
+    .box {
+        background-color: #f8f9fa;
+        border-radius: 10px;
+        padding: 20px;
+    }
+
+    .form-label {
+        font-weight: bold;
+    }
+
+    .form-control {
+        width: 100%;
+        padding: 8px;
+        margin-bottom: 10px;
+        border-radius: 5px;
+        border: 1px solid #ced4da;
+        box-sizing: border-box;
+    }
+
+    button[type="submit"] {
+        width: 100%;
+        padding: 10px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+</style>
+
+<section class="subscribe_section">
+    <div class="container-fuild">
+        <div class="box">
+            <div class="row">
+                <div class="col-md-6 offset-md-3">
+
+                    <center> <h3> Purchase Company Vehicle  </h3> </center>
+
+                    <br /> <br /> <br />
+
+    @model vsms.Models.CompanyVehicle
+                    <form asp-action="Price" enctype="multipart/form-data">
+
+
+    <input type="hidden" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" asp-for="CompanyVehicleId">
+    <div class="row">
+        <div class="col-md-4">
+            <label for="exampleInputEmail1" class="form-label">Vehicle Name </label>
+            <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" asp-for="CompanyVehicleName">
+        </div>
+        <div class="col-md-4">
+            <label for="exampleInputEmail1" class="form-label"> Vehicle Brand </label>
+            <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" asp-for="CompanyVehicleBrand">
+        </div>
+        <div class="col-md-4">
+            <label for="exampleInputEmail1" class="form-label">Vehicle Price </label>
+            <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" asp-for="CompanyVehiclePrice">
+        </div>
+    </div>
+
+    <div class="row"> 
+        <div class="col-md-4">
+            <label for="exampleInputEmail1" class="form-label"> Vehicle Description </label>
+                                <input type="text" class="form-control" id="exampleInputEmail1"  aria-describedby="emailHelp" asp-for="CompanyVehicleDescription">
+        </div>
+        <div class="col-md-4">
+            <label for="exampleInputEmail1" class="form-label"> Vehicle Colour </label>
+            <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" asp-for="CompanyVehicleColour">
+        </div>
+        <div class="col-md-4">
+            <label for="exampleInputEmail1" class="form-label"> Vehicle Model Num </label>
+            <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" asp-for="CompanyVehicleModelNum">
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4">
+            <label for="exampleInputEmail1" class="form-label"> Vehicle Image </label>
+                                <input type="file" name="file" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" >
+
+                                <img src="~/@Url.Content(Model.CompanyVehicleImage)" height="100" />
+        </div>
+    </div>
+
+    <center> <button type="submit" class="btn btn-primary"> Purchase </button> </center>
+
+</form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+

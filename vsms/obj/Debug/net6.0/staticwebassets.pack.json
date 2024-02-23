@@ -1,0 +1,805 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\vsms.bundle.scp.css",
+      "PackagePath": "staticwebassets\\vsms.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\assets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\fonts\\Helvetica Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Helvetica Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\fonts\\Helvetica.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Helvetica.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\13.webp",
+      "PackagePath": "staticwebassets\\images\\13.webp"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\17587d564-1a17-4543-86b7-d2f70f9d6bbf.jpeg",
+      "PackagePath": "staticwebassets\\images\\17587d564-1a17-4543-86b7-d2f70f9d6bbf.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\2022toc020151_1280_01.webp",
+      "PackagePath": "staticwebassets\\images\\2022toc020151_1280_01.webp"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\2022toc020151_1280_01c498c85f-aa37-421b-b531-03cc570a1d53.webp",
+      "PackagePath": "staticwebassets\\images\\2022toc020151_1280_01c498c85f-aa37-421b-b531-03cc570a1d53.webp"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\2022toc020151_1280_01cf52cac2-f00c-4ae7-b18f-cccc93c53387.webp",
+      "PackagePath": "staticwebassets\\images\\2022toc020151_1280_01cf52cac2-f00c-4ae7-b18f-cccc93c53387.webp"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\2686b4d62-601a-4149-bb27-677e94426d6b.png",
+      "PackagePath": "staticwebassets\\images\\2686b4d62-601a-4149-bb27-677e94426d6b.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\Attention Attention.jpg",
+      "PackagePath": "staticwebassets\\images\\Attention Attention.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\Golf1.jpg",
+      "PackagePath": "staticwebassets\\images\\Golf1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\Golf1e715b4bb-9199-4a03-a981-3af0851b2ca9.jpeg",
+      "PackagePath": "staticwebassets\\images\\Golf1e715b4bb-9199-4a03-a981-3af0851b2ca9.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\Screenshot (1).png",
+      "PackagePath": "staticwebassets\\images\\Screenshot (1).png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\Screenshot (12)bde9f70f-ee48-4919-9d3d-7a2a9b6cea1d.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot (12)bde9f70f-ee48-4919-9d3d-7a2a9b6cea1d.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\USD20FOC051B021001.webp",
+      "PackagePath": "staticwebassets\\images\\USD20FOC051B021001.webp"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\USD20FOC051B0210012d872407-7917-4b2b-8833-2e9667a6206a.webp",
+      "PackagePath": "staticwebassets\\images\\USD20FOC051B0210012d872407-7917-4b2b-8833-2e9667a6206a.webp"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\about-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\about-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\archery.jfif",
+      "PackagePath": "staticwebassets\\images\\archery.jfif"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\arrival-bg1c0d1390-0d6b-4cad-ad10-0e09224682af.jpeg",
+      "PackagePath": "staticwebassets\\images\\arrival-bg1c0d1390-0d6b-4cad-ad10-0e09224682af.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\arrival-bg43fa287d-7ec7-448e-9383-caa546f56d3b.jpeg",
+      "PackagePath": "staticwebassets\\images\\arrival-bg43fa287d-7ec7-448e-9383-caa546f56d3b.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\arrival-bg4ba48603-176d-41ac-a360-685409bb5c3c.jpeg",
+      "PackagePath": "staticwebassets\\images\\arrival-bg4ba48603-176d-41ac-a360-685409bb5c3c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\arrival-bg867baec7-1390-499c-a7a6-6321ac503a9d.jpeg",
+      "PackagePath": "staticwebassets\\images\\arrival-bg867baec7-1390-499c-a7a6-6321ac503a9d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\arrival-bg9b9c432b-0f30-4fce-b29f-0bdb4f6f0c8c.jpeg",
+      "PackagePath": "staticwebassets\\images\\arrival-bg9b9c432b-0f30-4fce-b29f-0bdb4f6f0c8c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\car (2).png",
+      "PackagePath": "staticwebassets\\images\\car (2).png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\car-1.png",
+      "PackagePath": "staticwebassets\\images\\car-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\car-2.png",
+      "PackagePath": "staticwebassets\\images\\car-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\car-3.png",
+      "PackagePath": "staticwebassets\\images\\car-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\car-4.png",
+      "PackagePath": "staticwebassets\\images\\car-4.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\car-service.jpg",
+      "PackagePath": "staticwebassets\\images\\car-service.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\car.png",
+      "PackagePath": "staticwebassets\\images\\car.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\client-1.png",
+      "PackagePath": "staticwebassets\\images\\client-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\client-2.png",
+      "PackagePath": "staticwebassets\\images\\client-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\client-3.png",
+      "PackagePath": "staticwebassets\\images\\client-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\client-4.png",
+      "PackagePath": "staticwebassets\\images\\client-4.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\client-5.png",
+      "PackagePath": "staticwebassets\\images\\client-5.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\client.jpg",
+      "PackagePath": "staticwebassets\\images\\client.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\disneyland-walt-disney-disney-wallpaper-preview.jpg",
+      "PackagePath": "staticwebassets\\images\\disneyland-walt-disney-disney-wallpaper-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\down-arrow.png",
+      "PackagePath": "staticwebassets\\images\\down-arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\download.jpeg",
+      "PackagePath": "staticwebassets\\images\\download.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\downloadd3a46baa-c9aa-4f5a-9a6d-e6a3c4a059b5.jpeg",
+      "PackagePath": "staticwebassets\\images\\downloadd3a46baa-c9aa-4f5a-9a6d-e6a3c4a059b5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\f1.PNG",
+      "PackagePath": "staticwebassets\\images\\f1.PNG"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\facebook-logo.png",
+      "PackagePath": "staticwebassets\\images\\facebook-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\gun2.jfif",
+      "PackagePath": "staticwebassets\\images\\gun2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\happiness.png",
+      "PackagePath": "staticwebassets\\images\\happiness.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\images (1).jpeg",
+      "PackagePath": "staticwebassets\\images\\images (1).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\images (1)72b4832d-b431-486e-b3cb-6fa5204f89f6.jpeg",
+      "PackagePath": "staticwebassets\\images\\images (1)72b4832d-b431-486e-b3cb-6fa5204f89f6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\images (1)a4ea2884-6b5c-493a-a936-8de6a0a95de1.jpeg",
+      "PackagePath": "staticwebassets\\images\\images (1)a4ea2884-6b5c-493a-a936-8de6a0a95de1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\images 281bea074-7612-48eb-9372-3992a14fd7fd.jpeg",
+      "PackagePath": "staticwebassets\\images\\images 281bea074-7612-48eb-9372-3992a14fd7fd.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\images 3.jfif",
+      "PackagePath": "staticwebassets\\images\\images 3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\images 4.jfif",
+      "PackagePath": "staticwebassets\\images\\images 4.jfif"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\images 42ac2455f-91c9-4f3b-8ffa-38cb6032936c.jpeg",
+      "PackagePath": "staticwebassets\\images\\images 42ac2455f-91c9-4f3b-8ffa-38cb6032936c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\images.jpeg",
+      "PackagePath": "staticwebassets\\images\\images.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\images964d5fe6-ead0-4866-8a58-ce7d469a2bed.jpeg",
+      "PackagePath": "staticwebassets\\images\\images964d5fe6-ead0-4866-8a58-ce7d469a2bed.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\images964d5fe6-ead0-4866-8a58-ce7d469a2bed817d0f76-0d2e-4885-ab21-64ff3ee5cb40.jpeg",
+      "PackagePath": "staticwebassets\\images\\images964d5fe6-ead0-4866-8a58-ce7d469a2bed817d0f76-0d2e-4885-ab21-64ff3ee5cb40.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\instagram-logo.png",
+      "PackagePath": "staticwebassets\\images\\instagram-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\kid1658c8759-5278-449c-9b24-54362aaf5267.jpeg",
+      "PackagePath": "staticwebassets\\images\\kid1658c8759-5278-449c-9b24-54362aaf5267.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\kid1dd8d4c02-3529-453f-aa26-2b676896cb25.jpeg",
+      "PackagePath": "staticwebassets\\images\\kid1dd8d4c02-3529-453f-aa26-2b676896cb25.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\left-arrow-black.png",
+      "PackagePath": "staticwebassets\\images\\left-arrow-black.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\left-arrow-white.png",
+      "PackagePath": "staticwebassets\\images\\left-arrow-white.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\linkedin.png",
+      "PackagePath": "staticwebassets\\images\\linkedin.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\log.png",
+      "PackagePath": "staticwebassets\\images\\log.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\login_icon.png",
+      "PackagePath": "staticwebassets\\images\\login_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\mail.png",
+      "PackagePath": "staticwebassets\\images\\mail.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\menu.png",
+      "PackagePath": "staticwebassets\\images\\menu.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\pexels-rene-asmussen-2505098-removebg-preview (1).png",
+      "PackagePath": "staticwebassets\\images\\pexels-rene-asmussen-2505098-removebg-preview (1).png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\phone.png",
+      "PackagePath": "staticwebassets\\images\\phone.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\quote.png",
+      "PackagePath": "staticwebassets\\images\\quote.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\right-arrow-black.png",
+      "PackagePath": "staticwebassets\\images\\right-arrow-black.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\right-arrow-white.png",
+      "PackagePath": "staticwebassets\\images\\right-arrow-white.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\images\\search-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\shipped.png",
+      "PackagePath": "staticwebassets\\images\\shipped.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\special-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\special-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\trophy.png",
+      "PackagePath": "staticwebassets\\images\\trophy.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\images\\twitter.png",
+      "PackagePath": "staticwebassets\\images\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Vehicle Showroom Management System\\vsms (1)\\vsms\\vsms\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.vsms.props",
+      "PackagePath": "build\\vsms.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.vsms.props",
+      "PackagePath": "buildMultiTargeting\\vsms.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.vsms.props",
+      "PackagePath": "buildTransitive\\vsms.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.vsms.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

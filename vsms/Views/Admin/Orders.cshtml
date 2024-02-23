@@ -1,0 +1,43 @@
+﻿@{
+    Layout = "_Layout1";
+}
+<section class="subscribe_section">
+    <div class="container-fuild">
+        <div class="box">
+            <div class="row">
+                <div class="col-md-6 offset-md-3">
+                    <center> <h3> Our Orders </h3> </center>
+                    <br />
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th scope="col">Order Id</th>
+                                <th scope="col">Vehical no</th>
+                                <th scope="col">Order Date</th>
+                                <th scope="col">User id</th>
+                                
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                            @model IEnumerable<vsms.Models.TblCheckout>
+
+                            @foreach (var value in Model)
+                            {
+                                <tr>
+
+                                    <td> @value.OrderId </td>
+                                    <td>@value.VNo</td>
+                                    <td>@value.OrderDate</td>
+                                    <td>@value.UserId</td>
+                                   
+                                </tr>
+
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

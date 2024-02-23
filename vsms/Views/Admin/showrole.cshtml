@@ -1,0 +1,44 @@
+﻿@{
+    Layout = "_Layout1";
+}
+
+<section class="subscribe_section">
+    <div class="container-fuild">
+        <div class="box">
+            <div class="row">
+                <div class="col-md-6 offset-md-3">
+                    <center> <h1> Show Roles </h1> </center>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Role Id
+            </th>
+            <th scope="col">Role Name</th>
+                                <th scope="col">Edit</th>
+                                <th scope="col">Delete</th>
+            
+
+        </tr>
+    </thead>
+    <tbody>
+      
+        @model IEnumerable<vsms.Models.Role>
+        @foreach (var value in Model)
+        {
+            <tr>
+
+                <td> @value.Rid </td>
+               
+                 <td>@value.Rname</td>
+                <td> <a class="btn btn-success text-dark" asp-controller="Admin" asp-action="editrole" asp-route-id="@value.Rid"> Edit </a> </td>
+                                    <td> <a class="btn btn-danger text-dark" asp-controller="Admin" asp-action="deleterole" asp-route-id="@value.Rid"> Delete </a> </td>
+            </tr>
+
+        }
+    </tbody>
+</table>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
